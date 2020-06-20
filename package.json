@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TiciaR/Google-Books/issues"
   },
-  "homepage": "https://github.com/TiciaR/Google-Books#readme"
+  "homepage": "https://github.com/TiciaR/Google-Books#readme",
+  "dependencies": {
+    "mongoose": "^5.9.19"
+  }
 }
