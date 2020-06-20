@@ -1,0 +1,20 @@
+{
+  "name": "Google-Books",
+  "version": "1.0.0",
+  "description": "### Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiciaR/Google-Books.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiciaR/Google-Books/issues"
+  },
+  "homepage": "https://github.com/TiciaR/Google-Books#readme"
+}
